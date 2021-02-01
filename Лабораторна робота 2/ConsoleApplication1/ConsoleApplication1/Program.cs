@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the length of yhe array");
+            Console.WriteLine("Enter the length of the array"); // word has been corrected
             string s = Console.ReadLine();
             int n = int.Parse(s);
             MyArray test = new MyArray(n);
