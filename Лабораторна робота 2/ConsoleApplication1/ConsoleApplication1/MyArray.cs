@@ -19,7 +19,7 @@ namespace ConsoleApplication1
             for (int i = 0; i < length; i++)
             {
                 array[i] = ran.Next(1,20);
-                Console.Write("{0}  ", array[i]);
+                Console.Write("{0}  ", array[i] + 19); // Changes_2 "+ 19"
             }
             Console.WriteLine();
         }
