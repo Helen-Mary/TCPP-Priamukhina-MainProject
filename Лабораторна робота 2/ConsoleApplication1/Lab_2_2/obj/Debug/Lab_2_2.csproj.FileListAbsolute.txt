@@ -1,0 +1,6 @@
+E:\ЧНУ ім. Б.Хмельницького\OOP\2 Семестр\Лабораторна робота 2\ConsoleApplication1\Lab_2_2\bin\Debug\Lab_2_2.exe.config
+E:\ЧНУ ім. Б.Хмельницького\OOP\2 Семестр\Лабораторна робота 2\ConsoleApplication1\Lab_2_2\bin\Debug\Lab_2_2.exe
+E:\ЧНУ ім. Б.Хмельницького\OOP\2 Семестр\Лабораторна робота 2\ConsoleApplication1\Lab_2_2\bin\Debug\Lab_2_2.pdb
+E:\ЧНУ ім. Б.Хмельницького\OOP\2 Семестр\Лабораторна робота 2\ConsoleApplication1\Lab_2_2\obj\Debug\Lab_2_2.exe
+E:\ЧНУ ім. Б.Хмельницького\OOP\2 Семестр\Лабораторна робота 2\ConsoleApplication1\Lab_2_2\obj\Debug\Lab_2_2.pdb
+E:\ЧНУ ім. Б.Хмельницького\OOP\2 Семестр\Лабораторна робота 2\ConsoleApplication1\Lab_2_2\obj\Debug\Lab_2_2.csprojResolveAssemblyReference.cache
