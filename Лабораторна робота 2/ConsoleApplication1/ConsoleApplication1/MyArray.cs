@@ -46,7 +46,7 @@ namespace ConsoleApplication1
                 if (array[i] < min)
                     min = array[i];
             }
-            Console.WriteLine("max BERnum is : {0}, min num is : {1}", max, min);
+            Console.WriteLine("max numBER is : {0}, min num is : {1}", max, min); // BER Browser Change
         }
 
         public void Sum()
